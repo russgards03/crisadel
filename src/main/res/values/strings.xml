@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Crisadel</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="cris_adel_s">Cris\Adel\'s</string>
+    <string name="menu_stock">Stocks</string>
+    <string name="menu_receipt">Receipt</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="search">Search</string>
+
+
+</resources>
